@@ -1,5 +1,10 @@
 jnonoononononoononon
 nininidgih
 dihbpdnbfpih
+<<<<<<< HEAD
 5555555555555555555555555555
 666666666666666
+=======
+dddddddddddddddddddddddddddddddd
+yyyyyyyyyyyyyyyyyyyyy
+>>>>>>> 73d9cf08a645eb4e829a37eec0f19208290ebf3e
